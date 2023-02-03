@@ -1,4 +1,7 @@
 # installs dependencies from ./setup.py, and the package itself,
 # in editable mode
-sentiment_analysis_spanish==0.0.25
+scikit-learn==1.1.2
+pickleshare==0.7.5
+kmodes==0.12.2
+kprototypes==0.1.1
 -e .
